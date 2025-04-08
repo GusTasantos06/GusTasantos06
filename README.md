@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming languages
 - 🌱 I’m currently learning PHP, JavaScript
 - 💞️ I’m looking to collaborate on large projects and companies
-- 📫 How to reach me @gu.santos______ ( Instagram ) 
+- 📫 How to reach me @Gustavo Santos (LinkedIn) 
 
 
 <!---
